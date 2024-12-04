@@ -1,0 +1,15 @@
+{
+  "name": "practice-coding",
+  "version": "1.0.0",
+  "description": "learning NPM",
+  "main": "practiceNPM.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sillyname": "^0.1.0"
+  }
+}
