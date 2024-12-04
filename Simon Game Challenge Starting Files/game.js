@@ -74,15 +74,4 @@ let simonSaysDelay = async (arr) => {
 
 
 
-// const compareColor = () => {
-//     const randomNum = randomNumber();
-//     let colorMatch = 0;
-
-//     for(let color in buttonColor){
-//         if(buttonColor[color] === randNum){
-//             colorMatch = color;
-//             break;
-//         }
-//     }
-//     return color;
-// }
+///
